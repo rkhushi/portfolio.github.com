@@ -2,7 +2,7 @@
 {
     position: fixed;
     right: 0;
-    top: 60px;
+    top: 110px;
     padding: 15px;
     width: 200px;
     border: 1px solid var(--bg-black-50);
@@ -65,6 +65,7 @@
     height: 30px;
     width: 30px;
     border-radius: 50%;
+    cursor: pointer;
 }
 .style-switch .color-1
 {
@@ -78,3 +79,5 @@
 {
     background: #f021b2;
 }
+
+
